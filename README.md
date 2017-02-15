@@ -1,2 +1,2 @@
 # SecurityDemo
-Demo to demonstrate Implementing OAuth Security
+This is a simple spring boot application to demonstrate the implementation of OAuth Security.  
